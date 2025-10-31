@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed93e7b3-b9bf-4a3a-acb2-38d528aeb888" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/CategoryController.java" afterDir="false" />
-    </list>
+    <list default="true" id="ed93e7b3-b9bf-4a3a-acb2-38d528aeb888" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
