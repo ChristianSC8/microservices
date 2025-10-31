@@ -5,30 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ed93e7b3-b9bf-4a3a-acb2-38d528aeb888" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/CategoryController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/entity/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/repository/CategoryRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/repository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/service/CategoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/service/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/service/impl/CategoryServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-data/ms-catalogo-service.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-data/ms-catalogo-service.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/security/JwtProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/security/JwtProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/security/PasswordEncoderConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/security/PasswordEncoderConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/service/AuthUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/service/AuthUserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/service/impl/AuthUserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms-auth/src/main/java/com/example/msauth/service/impl/AuthUserServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ms_catalogo/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/MsCatalogoApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/MsCatalogoApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/config/OpenApiConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/config/OpenApiConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/CategoriaController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/entity/Categoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/entity/Category.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/repository/CategoriaRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/service/CategoriaService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/service/impl/CategoriaServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/util/CategoriaSeeder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/CategoryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/ms_catalogo/src/main/java/com/example/ms_catalogo/controller/CategoryController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
