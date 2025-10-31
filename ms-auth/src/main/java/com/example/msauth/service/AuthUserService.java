@@ -5,7 +5,6 @@ import com.example.msauth.dto.TokenDto;
 import com.example.msauth.entity.AuthUser;
 
 
-
 public interface AuthUserService {
     public AuthUser save(AuthUserDto authUserDto);
 
